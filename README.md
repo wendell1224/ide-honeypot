@@ -12,7 +12,11 @@
 
 ## 基本配置
 
-· view 目录下放index.html模板文件  js/css/fonts/img 等目录则是放静态资源，favicon.ico放在与main.go同级目录
+· view 目录下放index.html模板文件
+
+· js/css/fonts/img 等目录则是放静态资源
+
+· favicon.ico放在与main.go同级目录（也可以不需要）
 
 · source目录则是jb小子要打开的目录，src下可以放一下没用的源码增加zip包体积诱惑攻击队
 
