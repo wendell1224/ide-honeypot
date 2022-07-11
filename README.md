@@ -43,6 +43,10 @@ example:
 ./ide-honeypot -h 0.0.0.0 -p 6789 -f source -c "open /System/Applications/Calculator.app/Contents/MacOS/Calculator"
 ```
 
+✅Linux
+✅Windows
+✅MacOS
+
 ## 演示视频：
 
 [演示视频](https://www.bilibili.com/video/BV1JY4y1J7NQ/)
