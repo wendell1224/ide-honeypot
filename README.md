@@ -50,6 +50,14 @@ example:
 
 · ✅MacOS
 
+只需要在静态文件放进对应的文件夹之后运行：
+
+```
+go build main.go
+```
+
+生成可执行文件即可
+
 ## 演示视频：
 
 [演示视频](https://www.bilibili.com/video/BV1JY4y1J7NQ/)
