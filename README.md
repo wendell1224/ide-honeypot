@@ -8,7 +8,7 @@
 
 ## 运行
 
-[![jcygUA.jpg](https://s1.ax1x.com/2022/07/11/jcygUA.jpg)](https://imgtu.com/i/jcygUA)
+![1.img](https://s3.bmp.ovh/imgs/2022/07/12/f765ba240c4f211f.jpeg)
 
 ## 基本配置
 
