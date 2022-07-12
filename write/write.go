@@ -34,5 +34,5 @@ func WriteOld(new string) {
 		panic(err)
 	}
 
-	log.Println("已恢复默认默认命令")
+	log.Println("已恢复workspace.xml文件")
 }

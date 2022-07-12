@@ -51,5 +51,5 @@ func Zip(src_dir string, zip_file_name string) {
 		}
 		return nil
 	})
-	log.Println("已生成" + zip_file_name + ".zip")
+	log.Println("已生成" + zip_file_name)
 }

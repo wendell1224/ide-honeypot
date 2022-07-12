@@ -9,7 +9,7 @@ import (
 
 func Init(info model.Info) {
 	//gin发布模式
-	//gin.SetMode(gin.ReleaseMode)
+	gin.SetMode(gin.ReleaseMode)
 	r := gin.Default()
 
 	//注册静态文件路由
